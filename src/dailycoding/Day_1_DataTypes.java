@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @Author: Adnan Isajbegovic
  * @Created: 2016-11-01
  */
-public class Day_1_Data_Types {
+public class Day_1_DataTypes {
     public static void main(String[] args) {
         int i = 4;
         double d = 4.0;
