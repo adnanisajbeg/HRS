@@ -11,6 +11,7 @@ public class Day_13_AbstractClasses {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         MyBook myBook = new MyBook(in.nextLine(), in.nextLine(), in.nextInt());
+        in.close();
         myBook.display();
     }
 
