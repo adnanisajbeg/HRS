@@ -1,6 +1,5 @@
 package cracking.coding.interview;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 /**
